@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Author: Shea Lambert
 
 #this script will convert a phylip file ("myfile.phy") containing two haplotype sequences per individual into a phylip file ("myfile.consensus.phy") containing the consensus sequence (using IUPAC ambiguities) for each individual. 
 
