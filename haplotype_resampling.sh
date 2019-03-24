@@ -1,4 +1,5 @@
 #!/bin/bash
+#Author: Shea Lambert
 
 #This script is for creating an alignment with one randomly sampled haplotype for each locus and individual, using a phased alignment containing two haplotypes per individual
 #First, split a phylip file containing 2 haplotypes for each individual into separate files for each locus. I use RAXML v8.X and the "-f s" option for this.
